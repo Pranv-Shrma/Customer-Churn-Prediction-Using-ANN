@@ -1,4 +1,3 @@
-```markdown
 # Customer Churn Prediction Project
 
 ## Overview
@@ -119,5 +118,3 @@ Contributions to this project are welcome. Please follow these steps:
 2.  Create a new branch for your feature or bug fix.
 3.  Make your changes and commit them with descriptive messages.
 4.  Submit a pull request.
-
-```
