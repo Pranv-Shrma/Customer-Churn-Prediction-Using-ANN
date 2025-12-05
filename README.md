@@ -1,4 +1,4 @@
-# Customer Churn Prediction Project
+# Customer Churn Prediction Using Artificial Neural Networks
 
 ## Overview
 
@@ -109,12 +109,3 @@ A bank wants to proactively identify customers who are likely to churn. By using
 2.  **Predict Churn Probability:** The application provides a churn probability score, indicating the likelihood of a customer churning.
 3.  **Take Proactive Measures:** Based on the churn probability, the bank can take proactive measures, such as offering personalized services or discounts, to retain high-risk customers.
 4.  **Improve Retention Rates:** By identifying and addressing potential churn risks early on, the bank can improve customer retention rates and reduce financial losses associated with customer attrition.
-
-## Contributing
-
-Contributions to this project are welcome. Please follow these steps:
-
-1.  Fork the repository.
-2.  Create a new branch for your feature or bug fix.
-3.  Make your changes and commit them with descriptive messages.
-4.  Submit a pull request.
